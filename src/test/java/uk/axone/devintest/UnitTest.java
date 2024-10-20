@@ -11,4 +11,8 @@ public class UnitTest {
     public void test2(){
         System.out.println("this is test2");
     }
+    @Test
+    public void test3(){
+        System.out.println("this is test2");
+    }
 }
